@@ -1,6 +1,6 @@
 # starsheet
 OSRS Shooting Stars Tracker Spreadsheet
-By Lunar Strike
+by Lunar Strike
 
 ![image](https://github.com/jfith001/starsheet/assets/27014121/9fe59bc6-dedf-4655-9abf-9359e39e6e70)
 
