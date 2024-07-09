@@ -15,4 +15,5 @@ Step-by-step
 Security Info:
 
 SHA256 Hash: ce02f105ed64a2cb9ef91d6b94ab5e8b1eb38936974be59dff6fcf243aef19a8
+
 ![image](https://github.com/jfith001/starsheet/assets/27014121/157be9b3-7877-4eaf-8743-99e9409d3431)
