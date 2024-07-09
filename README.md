@@ -1,5 +1,5 @@
 # starsheet
-OSRS Shooting Stars Tracker SpreadSheet
+OSRS Shooting Stars Tracker Spreadsheet
 
 Step-by-step
 1. The spreadsheet will grab the current time from the system automatically.
