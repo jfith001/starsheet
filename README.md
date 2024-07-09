@@ -8,7 +8,7 @@ by Lunar Strike
 Step-by-step
 1. The spreadsheet will grab the current time from the system automatically.
 2. Look through the telescope and enter the number of minutes in the "Prediction" column (I just use lowest number).
-3. Hit tab to get to the time recorded field, then use the shortcut CTRL, SHIFT, Semicolon to insert the static current time.
+3. Hit tab to get to the time recorded field, then use the shortcut CTRL, SHIFT, Semicolon to insert the current time.
 4. Type in the Location into the location field (this will autocomplete and there is a dropdown menu as well).
 5. The time left until the star lands will automatically update and refresh. This allows you to form a list of each star, the location, and when it will land. It counts down automatically for each world, making tracking easier.
 6. The sheet will update times when you change a value by default. To manually refresh, use the shortcut CTRL, F5 if using MS Office or F9 if using LibreOffice
