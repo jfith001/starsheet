@@ -11,3 +11,5 @@ Step-by-step
 7. You should only modify values in the "starsheet" tab - the calculations tab is only for automated formulas. The Gray cells can be deleted when the stars have died. If you delete other cells, then just reload the sheet without saving.
 7. I used this sheet to find many shooting stars solo, may it serve you well. You can gain a vast amount of stardust in a short period of time if you have the teleports and locations memorized due to the 300 stardust bonus.
 ![image](https://github.com/jfith001/starsheet/assets/27014121/4c365db2-360e-480a-ac3c-fe0b14e92d50)
+
+![image](https://github.com/jfith001/starsheet/assets/27014121/157be9b3-7877-4eaf-8743-99e9409d3431)
