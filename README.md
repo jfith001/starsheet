@@ -3,6 +3,7 @@ OSRS Shooting Stars Tracker Spreadsheet
 by Lunar Strike
 
 ![image](https://github.com/jfith001/starsheet/assets/27014121/9fe59bc6-dedf-4655-9abf-9359e39e6e70)
+![image](https://github.com/jfith001/starsheet/assets/27014121/3f64f3f0-b8a7-44ef-837f-5ef901a18e09)
 
 
 Step-by-step
