@@ -6,7 +6,7 @@ by Lunar Strike
 ![image](https://github.com/jfith001/starsheet/assets/27014121/3f64f3f0-b8a7-44ef-837f-5ef901a18e09)
 
 
-Step-by-step
+**Step-by-step**
 1. The spreadsheet will grab the current time from the system automatically.
 2. Look through the telescope and enter the number of minutes in the "Prediction" column (I just use lowest number).
 3. Hit tab to get to the time recorded field, then use the shortcut CTRL, SHIFT, Semicolon to insert the current time.
@@ -16,7 +16,7 @@ Step-by-step
 7. You should only modify values in the "starsheet" tab - the calculations tab is only for formulas. The gray cells can be deleted when the stars have died. If you delete other cells, then just reload the sheet without saving.
 7. I used this sheet to find many shooting stars solo, may it serve you well. You can gain a vast amount of stardust in a short period of time if you have the teleports and locations memorized due to the 300 stardust bonus.
 
-Security Info:
+**Security Info**
 
 SHA256 Hash: ce02f105ed64a2cb9ef91d6b94ab5e8b1eb38936974be59dff6fcf243aef19a8
 
